@@ -1,0 +1,15 @@
+{
+  "name": "dpeg #2",
+  "description": "5 variants pixel dog NFT collection, max supply 3000.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeieimp2fthy5pbddlg25matnmuviuents23tvrj5bcquoddmmdmwgy",
+  "attributes": [
+    {
+      "trait_type": "Variant",
+      "value": "2"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "2"
+    }
+  ]
+}

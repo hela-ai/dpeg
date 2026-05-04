@@ -1,0 +1,13 @@
+{
+  "collectionName": "dpeg",
+  "description": "5 variants pixel dog NFT collection, max supply 3000.",
+  "maxSupply": 3000,
+  "imageUris": [
+    "https://gateway.pinata.cloud/ipfs/bafybeifjsikdfwgi555i4gpuj5dlxim56nn25dwdkioj7srohjx77227ii",
+    "https://gateway.pinata.cloud/ipfs/bafybeieimp2fthy5pbddlg25matnmuviuents23tvrj5bcquoddmmdmwgy",
+    "https://gateway.pinata.cloud/ipfs/bafybeifnpcr7s4u4g2p3cib4mxtmn4yq6im62chd6p5h7i562vyypiaaqi",
+    "https://gateway.pinata.cloud/ipfs/bafybeigvah64hgl22ihyqe52gyjg2xkfrvlry4dalqdl4yruzsrd2hycti",
+    "https://gateway.pinata.cloud/ipfs/bafybeif54ulaxyhfxa7zyxq452ee2yu3yfge4dwvdq5kwsvykagpmmj6ae"
+  ],
+  "outputDir": "/Users/yutian/Desktop/falp/four/metadata/pixel-dog"
+}
